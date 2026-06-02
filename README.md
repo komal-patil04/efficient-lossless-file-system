@@ -28,4 +28,4 @@ The project focuses on optimizing storage utilization through lossless technique
 Academic Final Year Project
 
 ## Note
-Source code is not publicly available.
+This repository is intended to showcase the project overview, documentation, and project artifacts. The implementation source code is not publicly available.
